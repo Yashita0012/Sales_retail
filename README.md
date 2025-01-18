@@ -1,21 +1,20 @@
-# Sales_retail
 Retail Sales Analysis SQL Project
 
-**Objectives**
+Objectives
 
 Set up a retail sales database: Create and populate a database with retail sales data.
 
-**Data Cleaning**: Identify and remove records with missing or null values.
+Data Cleaning: Identify and remove records with missing or null values.
 
-**Exploratory Data Analysis (EDA)**: Perform basic EDA to understand the dataset.
+Exploratory Data Analysis (EDA): Perform basic EDA to understand the dataset.
 
-**Business Analysis**: Use SQL queries to answer business questions and derive insights.
+Business Analysis: Use SQL queries to answer business questions and derive insights.
 
-**Project Structure**
+Project Structure
 
-**1. Database Setup**
+1. Database Setup
 
-**Database Creation:** Create a database named sales_retail.
+Database Creation: Create a database named sales_retail.
 
 Table Creation: A table named retail_sales stores the sales data with the following schema:
 
@@ -105,7 +104,7 @@ Clone the Repository:
 git clone <repository_url>
 
 Set Up the Database:
-Execute the SQL file retail_sales.sql in your SQL environment to create and populate the database.
+Execute the SQL file retail_sales.sql in your PostgreSQL environment to create and populate the database.
 
 Run the Queries:
 Use the provided queries in the project documentation to perform analysis.
@@ -113,7 +112,7 @@ Use the provided queries in the project documentation to perform analysis.
 Explore and Modify:
 Feel free to extend the queries or create your own to explore additional aspects of the dataset.
 
-**Conclusion**
+Conclusion
 
 This project provides a comprehensive introduction to SQL for data analysis. By completing it, you will gain hands-on experience in:
 
@@ -123,10 +122,10 @@ Data cleaning and exploratory analysis
 
 Writing business-driven SQL queries to derive insights
 
-**Reports**
+Reports
 
 Sales Summary: Overview of total sales, customer demographics, and category performance.
 
 Trend Analysis: Insights into monthly sales patterns.
 
-Customer Insights: Top customers and unique category purchasers.
+Customer Insights: Top customers and unique category purchaser
